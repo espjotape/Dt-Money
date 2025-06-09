@@ -22,11 +22,11 @@ export function Transactions() {
        <tr key={transaction.id}>
        <td>{transaction.description}</td>
        <td>
-        <PriceHighlight variant="incone">
+        <PriceHighlight variant={transaction.type}>
          {transaction.price}
         </PriceHighlight>
        </td>
-       <td>{transaction.type}</td>
+       <td>{transaction.category}</td>
        <td>{transaction.createdAt}</td>
       </tr>
       )

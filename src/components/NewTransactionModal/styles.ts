@@ -75,7 +75,7 @@ export const CloseButton = styled(Dialog.Close)`
  color: ${props => props.theme["gray-500"]};
 `
 
-export const TransactionType = styled.div`
+export const TransactionType = styled(RadioGroup.Root)`
  display: grid;
  grid-template-columns: repeat(2, 1fr);
  gap: 1rem;

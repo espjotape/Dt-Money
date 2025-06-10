@@ -21,8 +21,16 @@
    "description": "Ignite ",
    "type": "outcome",
    "category": "Aprendizado",
-   "price": 2000,
+   "price": 100,
    "createdAt": "2025-06-09T10:19:11.267Z"
+  },
+  {
+   "id": 4,
+   "description": "Test",
+   "type": "outcome",
+   "category": "Venda",
+   "price": 120,
+   "createdAt": "2025-06-09T16:39:11.267Z"
   }
  ]
 }

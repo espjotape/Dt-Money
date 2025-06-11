@@ -1,36 +1,60 @@
 {
- "transactions": [
-  {
-   "id": 1,
-   "description": "Desenvolvimento de site",
-   "type": "income",
-   "category": "Venda",
-   "price": 14000,
-   "createdAt": "2025-06-09T16:39:11.267Z"
-  },
-  {
-   "id": 2,
-   "description": "Hamburguer",
-   "type": "outcome",
-   "category": "Alimentação",
-   "price": 60,
-   "createdAt": "2025-06-09T10:39:11.267Z"
-  },
-  {
-   "id": 3,
-   "description": "Ignite ",
-   "type": "outcome",
-   "category": "Aprendizado",
-   "price": 100,
-   "createdAt": "2025-06-09T10:19:11.267Z"
-  },
-  {
-   "id": 4,
-   "description": "Test",
-   "type": "outcome",
-   "category": "Venda",
-   "price": 120,
-   "createdAt": "2025-06-09T16:39:11.267Z"
-  }
- ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-06-09T16:39:11.267Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2025-06-09T10:39:11.267Z"
+    },
+    {
+      "id": "3",
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Aprendizado",
+      "price": 100,
+      "createdAt": "2025-06-09T10:19:11.267Z"
+    },
+    {
+      "id": "4",
+      "description": "Test",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 120,
+      "createdAt": "2025-06-09T16:39:11.267Z"
+    },
+    {
+      "id": "5",
+      "description": "Conta de internet",
+      "type": "outcome",
+      "category": "Utilidades",
+      "price": 120,
+      "createdAt": "2025-06-10T12:00:00.000Z"
+    },
+    {
+      "id": "9445",
+      "description": "Desenvolvimento de App",
+      "price": 1000,
+      "category": "Investimentos",
+      "type": "income",
+      "createdAt": "2025-06-11T19:40:48.242Z"
+    },
+    {
+      "id": "ca6c",
+      "description": "AAAA",
+      "price": 111,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-06-11T20:24:29.254Z"
+    }
+  ]
 }

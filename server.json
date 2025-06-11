@@ -55,6 +55,14 @@
       "category": "Alimentação",
       "type": "outcome",
       "createdAt": "2025-06-11T20:24:29.254Z"
+    },
+    {
+      "id": "03da",
+      "description": "Desenvolvimento de App",
+      "price": 1111,
+      "category": "Investimentos",
+      "type": "outcome",
+      "createdAt": "2025-06-11T20:41:01.193Z"
     }
   ]
 }

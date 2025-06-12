@@ -63,6 +63,14 @@
       "category": "Investimentos",
       "type": "outcome",
       "createdAt": "2025-06-11T20:41:01.193Z"
+    },
+    {
+      "id": "0a35",
+      "description": "Pastel",
+      "price": 2000,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-06-12T01:32:45.659Z"
     }
   ]
 }

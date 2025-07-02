@@ -71,6 +71,22 @@
       "category": "Alimentação",
       "type": "outcome",
       "createdAt": "2025-06-12T01:32:45.659Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 1000,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2025-07-02T19:09:05.049Z",
+      "id": "sDVLk28"
+    },
+    {
+      "description": "Pastel",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-07-02T19:09:25.342Z",
+      "id": "6glpuYE"
     }
   ]
 }
